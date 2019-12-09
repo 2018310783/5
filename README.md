@@ -18,3 +18,23 @@
 （4）覆盖Object根类中的toString方法，使其可以根据类名返回特定的字符串信息。
 2.完善测试类，对多个类进行实例化，调用java.util.Scanner进行交互输入，运用switch语句和条件结构使逻辑更加清晰。
 # 四、流程图
+![](https://github.com/2018310783/5/blob/master/1.png)
+# 五、核心代码
+1.package xuankexitong;
+
+public class people {
+	    String id;
+	    String name;
+	    String sex;
+	    public people(String id,String name,String sex) {
+		     this.id=id;
+		     this.name=name;
+		     this.sex=sex;
+	}
+}
+
+2.Scanner input=new Scanner(System.in);//实例化Scanner类
+	int i=input.nextInt();//输入一个整数
+3.subject subtwo=new subject("2","xiandai","102","9:40",teatwo);//对Subject类进行实例化
+	subject subthree=new subject("3","lisan","203","9:40",teathree);
+六、运行结果
