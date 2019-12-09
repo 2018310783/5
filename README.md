@@ -37,4 +37,7 @@ public class people {
 	int i=input.nextInt();//输入一个整数
 3.subject subtwo=new subject("2","xiandai","102","9:40",teatwo);//对Subject类进行实例化
 	subject subthree=new subject("3","lisan","203","9:40",teathree);
-六、运行结果
+# 六、运行结果
+![]（https://github.com/2018310783/5/blob/master/2.png）
+# 七、感想
+这次实验我对java有了更多的了解，知道了类的继承。学会了继承父类、继承父类的方法、对GUI更加熟练，实验过程中经常遇到不会的问题，这时便在网上寻找解决办法，找不到便讨论，最终解决问题。编写代码时要认真仔细，这样才能减少程序出错。希望以后在java实验中学到更多东西。
